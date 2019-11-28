@@ -1,7 +1,7 @@
 # fcc-weather-app
 FreeCodeCamp's Take Home App: Show the Local Weather
 
-User Stories
+# User Stories
 
 User Story: I can see the weather in my current location.
 
